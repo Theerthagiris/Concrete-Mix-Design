@@ -14,7 +14,7 @@ To utilize this Automated Concrete Mix Design Calculator, follow these steps:
 
 4. **Workability:** Choose the desired workability level of the concrete mix (e.g., low, medium, high).
 
-5. **Maximum Cement Content: **Input the maximum allowable cement content for the mix.
+5. **Maximum Cement Content:** Input the maximum allowable cement content for the mix.
 
 6. **Chemical Admixture Type:** Specify the type of chemical admixture to be used, if any.
 
@@ -24,7 +24,7 @@ To utilize this Automated Concrete Mix Design Calculator, follow these steps:
 
 9. **Water Absorption of Aggregates:** Input the water absorption values for fine and coarse aggregates.
 
-10. **Fine Aggregate Zone: **Specify the zone of the fine aggregate.
+10. **Fine Aggregate Zone:** Specify the zone of the fine aggregate.
 
 11. **Water Cement Ratio:** Define the desired water-cement ratio for the mix.
 
